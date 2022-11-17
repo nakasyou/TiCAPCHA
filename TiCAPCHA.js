@@ -70,7 +70,7 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
       var imgs=$(".iAmNot .riaju #gazoumondai img")
       imgs.css("width","30vw")
       imgs.css("height","20vh")
-      imgs.css("object-fit","fill")
+      imgs.css("object-fit","contain")
       $(".iAmNot .riaju #tugihe").click(()=>{
         useN=0
         useNn=0
