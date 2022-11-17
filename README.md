@@ -11,8 +11,8 @@ minify:
 ```js
 TiCAPCHA(selector,URL,Time)
 ```
-selector   ... TiCAPCHAを出す要素のCSSセレクタです。
-URL        ... 完了した時のリダイレクト先URLです
-Time       ... リダイレクトするまでの時間です
+- selector   ... TiCAPCHAを出す要素のCSSセレクタです。
+- URL        ... 完了した時のリダイレクト先URLです
+- Time       ... リダイレクトするまでの時間です
 ## クレジット
 picture by https://publicdomainq.net/
