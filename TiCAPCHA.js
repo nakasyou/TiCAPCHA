@@ -68,8 +68,8 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
         }
       }
       var imgs=$(".iAmNot .riaju #gazoumondai img")
-      imgs.css("width","30%")
-      imgs.css("height","20%")
+      imgs.css("width","30vw")
+      imgs.css("height","20vh")
       imgs.css("object-fit","fill")
       $(".iAmNot .riaju #tugihe").click(()=>{
         useN=0
