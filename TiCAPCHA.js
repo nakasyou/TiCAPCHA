@@ -60,7 +60,7 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
         if(c.attr("border")!="0"){
           c.attr("border","0")
         }else{
-          c.attr("border","8")
+          c.attr("border","2")
         }
         `))
         if(i%3==2){
@@ -68,9 +68,11 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
         }
       }
       var imgs=$(".iAmNot .riaju #gazoumondai img")
-      imgs.css("width","20vw")
+      
+      imgs.css("width","28vw")
       imgs.css("height","20vh")
       imgs.css("object-fit","cover")
+  
       $(".iAmNot .riaju #tugihe").click(()=>{
         useN=0
         useNn=0
