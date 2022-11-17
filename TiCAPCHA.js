@@ -18,12 +18,19 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/46B5F016-53B8-4231-B067-7053EC46C603.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/48AAA801-5D9D-4225-BBB3-148E5FB8A9C6.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/765C1670-0438-4F06-A862-4B9E1E76B669.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/A502B1EF-AE9A-4451-9A7E-0E21888CCA02.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/BB1C494E-0B83-432D-917E-1110E97D5C35.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/BF98051C-7062-44E0-9B04-7B721B260724.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/C301BE07-9046-428D-B061-4EF237E9F759.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/f/FC3DF2B6-152A-481F-8878-D57C8C03F07A.jpeg",
     ]
     var ye=[
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/07CE3054-9A3A-4D19-947F-794DE536D3B3.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/1CD5DD46-AF58-4EFA-ADE3-D7C40A04B92C.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/4E18F0A3-4396-4190-86CF-57B11378E0FB.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/50FB4555-3FE8-4CEC-9B16-5AE6280D3635.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/A914C9EA-5B8A-4718-915C-199EA3AB631C.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/B3494039-4ACA-4972-8682-B5E3ADACB5A1.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/E674C71C-B0EE-49E8-B66A-AA3658805B11.jpeg",
     ]
     var al=ye.concat(no)
