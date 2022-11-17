@@ -31,6 +31,7 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
     let isriaju=new Function("ye","url",isRiaju)
     
     
+   
       $(".iAmNot .riaju").show()
       let imgcase=$(".iAmNot .riaju #gazoumondai")
       let noN=0
