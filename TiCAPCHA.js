@@ -21,10 +21,10 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
     ]
     var ye=[
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/07CE3054-9A3A-4D19-947F-794DE536D3B3.jpeg",
-      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/0FFAB07F-976E-4FA5-B419-2F392302B7E8.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/1CD5DD46-AF58-4EFA-ADE3-D7C40A04B92C.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/4E18F0A3-4396-4190-86CF-57B11378E0FB.jpeg",
       "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/50FB4555-3FE8-4CEC-9B16-5AE6280D3635.jpeg",
+      "https://cdn.jsdelivr.net/gh/nakasyou/TiCAPCHA@main/ast/t/E674C71C-B0EE-49E8-B66A-AA3658805B11.jpeg",
     ]
     var al=ye.concat(no)
     let isRiaju="return ye.includes(url)"
@@ -63,7 +63,7 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
       var imgs=$(".iAmNot .riaju #gazoumondai img")
       imgs.css("width","20%")
       imgs.css("height","20%")
-      imgs.css("object-fit","cover")
+      //imgs.css("object-fit","cover")
       $(".iAmNot .riaju #tugihe").click(()=>{
         useN=0
         useNn=0
@@ -92,7 +92,7 @@ $('.iAmNot .kenti #okh #no-r').click(function() {
             setTimeout(() => {
             	window.location = toUrl;
             }, time);
-            location.href=toUrl
+            
           }
         }
         console.log(score)
